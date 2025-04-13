@@ -1,0 +1,3 @@
+displayName = Critters Craze! [1.4]
+author = Yuyutsu, Ghostly!, East, Ink of the Eternity, Alino4kaHvoshch
+version = 1.0

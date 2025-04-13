@@ -1,0 +1,13 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="..\tModLoader.targets" />
+	<ItemGroup>
+	</ItemGroup>
+	<ItemGroup>
+	</ItemGroup>
+	<ItemGroup>
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Update="tModLoader.CodeAssist" Version="0.1.5" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,685 @@
+Tiles: {
+	Blossom.MapEntry: Blossom
+	Cryovine.MapEntry: Cryovine
+	DeathCap.MapEntry: Death Cap
+	GhostReed.MapEntry: Ghost Reed
+	Kelp.MapEntry: Kelp
+	Terrarium_Blossom.MapEntry: Terrarium_ Blossom
+	Terrarium_Blue.MapEntry: Terrarium_ Blue
+	Terrarium_Cleft.MapEntry: Terrarium_ Cleft
+	Terrarium_Crismite.MapEntry: Terrarium_ Crismite
+	Terrarium_Green.MapEntry: Terrarium_ Green
+	Terrarium_Ice.MapEntry: Terrarium_ Ice
+	Terrarium_Lumoth.MapEntry: Terrarium_ Lumoth
+	Terrarium_Rainbow.MapEntry: Terrarium_ Rainbow
+	Terrarium_Sand.MapEntry: Terrarium_ Sand
+}
+
+Buffs: {
+	Alchemical_Buff: {
+		DisplayName: Alchemical_ Buff
+		Description: Mods.Critters.Buffs.Alchemical_Buff.Description
+	}
+
+	Apparition_Buff: {
+		DisplayName: Apparition_ Buff
+		Description: Mods.Critters.Buffs.Apparition_Buff.Description
+	}
+
+	ColdHeart_Buff: {
+		DisplayName: Cold Heart_ Buff
+		Description: Mods.Critters.Buffs.ColdHeart_Buff.Description
+	}
+
+	UFOPet_Buff: {
+		DisplayName: U F O Pet_ Buff
+		Description: Mods.Critters.Buffs.UFOPet_Buff.Description
+	}
+}
+
+Items: {
+	FeatherArrow: {
+		DisplayName: Feather Arrow
+		Tooltip: ""
+	}
+
+	DuneCharm: {
+		DisplayName: Dune Charm
+		Tooltip: ""
+	}
+
+	MusketeerHat: {
+		DisplayName: Musketeer Hat
+		Tooltip: ""
+	}
+
+	Skull: {
+		DisplayName: Skull
+		Tooltip: ""
+	}
+
+	BabySlimeBlue: {
+		DisplayName: Baby Slime Blue
+		Tooltip: ""
+	}
+
+	BabySlimeGreen: {
+		DisplayName: Baby Slime Green
+		Tooltip: ""
+	}
+
+	BabySlimeIce: {
+		DisplayName: Baby Slime Ice
+		Tooltip: ""
+	}
+
+	BabySlimeRainbow: {
+		DisplayName: Baby Slime Rainbow
+		Tooltip: ""
+	}
+
+	BabySlimeSand: {
+		DisplayName: Baby Slime Sand
+		Tooltip: ""
+	}
+
+	BloodItem: {
+		DisplayName: Blood Item
+		Tooltip: ""
+	}
+
+	BlossmoonItem: {
+		DisplayName: Blossmoon Item
+		Tooltip: ""
+	}
+
+	CleftItem: {
+		DisplayName: Cleft Item
+		Tooltip: ""
+	}
+
+	CluckItem: {
+		DisplayName: Cluck Item
+		Tooltip: ""
+	}
+
+	CoralfishItem: {
+		DisplayName: Coralfish Item
+		Tooltip: ""
+	}
+
+	CrismiteItem: {
+		DisplayName: Crismite Item
+		Tooltip: ""
+	}
+
+	FloaterItem: {
+		DisplayName: Floater Item
+		Tooltip: ""
+	}
+
+	GoldLumoth: {
+		DisplayName: Gold Lumoth
+		Tooltip: ""
+	}
+
+	GoldScorpion: {
+		DisplayName: Gold Scorpion
+		Tooltip: ""
+	}
+
+	GulperItem: {
+		DisplayName: Gulper Item
+		Tooltip: ""
+	}
+
+	GummyWorm: {
+		DisplayName: Gummy Worm
+		Tooltip: ""
+	}
+
+	GustItem: {
+		DisplayName: Gust Item
+		Tooltip: ""
+	}
+
+	IgnomeItem: {
+		DisplayName: Ignome Item
+		Tooltip: ""
+	}
+
+	KelpfishItem: {
+		DisplayName: Kelpfish Item
+		Tooltip: ""
+	}
+
+	LanternfishItem: {
+		DisplayName: Lanternfish Item
+		Tooltip: ""
+	}
+
+	LizardItem: {
+		DisplayName: Lizard Item
+		Tooltip: ""
+	}
+
+	LumothItem: {
+		DisplayName: Lumoth Item
+		Tooltip: ""
+	}
+
+	LuvdiscItem: {
+		DisplayName: Luvdisc Item
+		Tooltip: ""
+	}
+
+	SandGustItem: {
+		DisplayName: Sand Gust Item
+		Tooltip: ""
+	}
+
+	SandOrb: {
+		DisplayName: Sand Orb
+		Tooltip: ""
+		Alert: The Desert Winds are raging!
+	}
+
+	SkullBugItem: {
+		DisplayName: Skull Bug Item
+		Tooltip: ""
+	}
+
+	SnakeItem: {
+		DisplayName: Snake Item
+		Tooltip: ""
+	}
+
+	SnowGustItem: {
+		DisplayName: Snow Gust Item
+		Tooltip: ""
+	}
+
+	StormGustItem: {
+		DisplayName: Storm Gust Item
+		Tooltip: ""
+	}
+
+	StormOrb: {
+		DisplayName: Storm Orb
+		Tooltip: ""
+		Alert: It's raining!
+	}
+
+	UFOItem: {
+		DisplayName: U F O Item
+		Tooltip: ""
+	}
+
+	WatcherItem: {
+		DisplayName: Watcher Item
+		Tooltip: ""
+	}
+
+	FishFingers: {
+		DisplayName: Fish Fingers
+		Tooltip: ""
+	}
+
+	FishKebab: {
+		DisplayName: Fish Kebab
+		Tooltip: ""
+	}
+
+	FishPop: {
+		DisplayName: Fish Pop
+		Tooltip: ""
+	}
+
+	MushroomFish: {
+		DisplayName: Mushroom Fish
+		Tooltip: ""
+	}
+
+	RawFish: {
+		DisplayName: Raw Fish
+		Tooltip: ""
+	}
+
+	SeaweedRoll: {
+		DisplayName: Seaweed Roll
+		Tooltip: ""
+	}
+
+	KelpHook: {
+		DisplayName: Kelp Hook
+		Tooltip: ""
+	}
+
+	Brightbulb: {
+		DisplayName: Brightbulb
+		Tooltip: ""
+	}
+
+	LumothLantern: {
+		DisplayName: Lumoth Lantern
+		Tooltip: ""
+	}
+
+	CleftShell: {
+		DisplayName: Cleft Shell
+		Tooltip: ""
+	}
+
+	CrimsonFeather: {
+		DisplayName: Crimson Feather
+		Tooltip: ""
+	}
+
+	CrismiteCrystal: {
+		DisplayName: Crismite Crystal
+		Tooltip: ""
+	}
+
+	DazzlingPrism: {
+		DisplayName: Dazzling Prism
+		Tooltip: ""
+	}
+
+	HeartScale: {
+		DisplayName: Heart Scale
+		Tooltip: ""
+	}
+
+	GoldMothItem: {
+		DisplayName: Gold Moth Item
+		Tooltip: ""
+	}
+
+	GreyMothItem: {
+		DisplayName: Grey Moth Item
+		Tooltip: ""
+	}
+
+	JewelMothItem: {
+		DisplayName: Jewel Moth Item
+		Tooltip: ""
+	}
+
+	LunaMothItem: {
+		DisplayName: Luna Moth Item
+		Tooltip: ""
+	}
+
+	Identifier: {
+		DisplayName: Identifier
+		Tooltip: ""
+	}
+
+	BloodBanner: {
+		DisplayName: Blood Banner
+		Tooltip: ""
+	}
+
+	BlueBannerItem: {
+		DisplayName: Blue Banner Item
+		Tooltip: ""
+	}
+
+	CoralfishBanner: {
+		DisplayName: Coralfish Banner
+		Tooltip: ""
+	}
+
+	CrimsonCluckBanner: {
+		DisplayName: Crimson Cluck Banner
+		Tooltip: ""
+	}
+
+	CrismiteBanner: {
+		DisplayName: Crismite Banner
+		Tooltip: ""
+	}
+
+	FloaterBanner: {
+		DisplayName: Floater Banner
+		Tooltip: ""
+	}
+
+	GildJellyBanner: {
+		DisplayName: Gild Jelly Banner
+		Tooltip: ""
+	}
+
+	GoldMothBanner: {
+		DisplayName: Gold Moth Banner
+		Tooltip: ""
+	}
+
+	GreenBannerItem: {
+		DisplayName: Green Banner Item
+		Tooltip: ""
+	}
+
+	GreyMothBanner: {
+		DisplayName: Grey Moth Banner
+		Tooltip: ""
+	}
+
+	GulperBanner: {
+		DisplayName: Gulper Banner
+		Tooltip: ""
+	}
+
+	GustBanner: {
+		DisplayName: Gust Banner
+		Tooltip: ""
+	}
+
+	IceBannerItem: {
+		DisplayName: Ice Banner Item
+		Tooltip: ""
+	}
+
+	IgnomeBanner: {
+		DisplayName: Ignome Banner
+		Tooltip: ""
+	}
+
+	JewelMothBanner: {
+		DisplayName: Jewel Moth Banner
+		Tooltip: ""
+	}
+
+	KelpfishBanner: {
+		DisplayName: Kelpfish Banner
+		Tooltip: ""
+	}
+
+	LanternfishBanner: {
+		DisplayName: Lanternfish Banner
+		Tooltip: ""
+	}
+
+	LizardBanner: {
+		DisplayName: Lizard Banner
+		Tooltip: ""
+	}
+
+	LostUFOBanner: {
+		DisplayName: Lost U F O Banner
+		Tooltip: ""
+	}
+
+	LumothBanner: {
+		DisplayName: Lumoth Banner
+		Tooltip: ""
+	}
+
+	LunaMothBanner: {
+		DisplayName: Luna Moth Banner
+		Tooltip: ""
+	}
+
+	LuvdiscBanner: {
+		DisplayName: Luvdisc Banner
+		Tooltip: ""
+	}
+
+	RainbowBannerItem: {
+		DisplayName: Rainbow Banner Item
+		Tooltip: ""
+	}
+
+	SandBannerItem: {
+		DisplayName: Sand Banner Item
+		Tooltip: ""
+	}
+
+	SandGustBanner: {
+		DisplayName: Sand Gust Banner
+		Tooltip: ""
+	}
+
+	SnowGustBanner: {
+		DisplayName: Snow Gust Banner
+		Tooltip: ""
+	}
+
+	StormGustBanner: {
+		DisplayName: Storm Gust Banner
+		Tooltip: ""
+	}
+
+	WatcherBanner: {
+		DisplayName: Watcher Banner
+		Tooltip: ""
+	}
+
+	FishCrate: {
+		DisplayName: Fish Crate
+		Tooltip: ""
+	}
+
+	DreamCatcher: {
+		DisplayName: Dream Catcher
+		Tooltip: ""
+	}
+
+	Streetlamp: {
+		DisplayName: Streetlamp
+		Tooltip: ""
+	}
+
+	BlossomCage: {
+		DisplayName: Blossom Cage
+		Tooltip: ""
+	}
+
+	BlueCage: {
+		DisplayName: Blue Cage
+		Tooltip: ""
+	}
+
+	CleftCage: {
+		DisplayName: Cleft Cage
+		Tooltip: ""
+	}
+
+	CoralfishBowl: {
+		DisplayName: Coralfish Bowl
+		Tooltip: ""
+	}
+
+	CrismiteCage: {
+		DisplayName: Crismite Cage
+		Tooltip: ""
+	}
+
+	FloaterBowl: {
+		DisplayName: Floater Bowl
+		Tooltip: ""
+	}
+
+	GoldMothJar: {
+		DisplayName: Gold Moth Jar
+		Tooltip: ""
+	}
+
+	GreenCage: {
+		DisplayName: Green Cage
+		Tooltip: ""
+	}
+
+	GreyMothJar: {
+		DisplayName: Grey Moth Jar
+		Tooltip: ""
+	}
+
+	GulperBowl: {
+		DisplayName: Gulper Bowl
+		Tooltip: ""
+	}
+
+	IceCage: {
+		DisplayName: Ice Cage
+		Tooltip: ""
+	}
+
+	JewelMothJar: {
+		DisplayName: Jewel Moth Jar
+		Tooltip: ""
+	}
+
+	KelpfishBowl: {
+		DisplayName: Kelpfish Bowl
+		Tooltip: ""
+	}
+
+	Kelp: {
+		DisplayName: Kelp
+		Tooltip: ""
+	}
+
+	LanternfishBowl: {
+		DisplayName: Lanternfish Bowl
+		Tooltip: ""
+	}
+
+	LunaMothJar: {
+		DisplayName: Luna Moth Jar
+		Tooltip: ""
+	}
+
+	LuvdiscBowl: {
+		DisplayName: Luvdisc Bowl
+		Tooltip: ""
+	}
+
+	RainbowCage: {
+		DisplayName: Rainbow Cage
+		Tooltip: ""
+	}
+
+	SandCage: {
+		DisplayName: Sand Cage
+		Tooltip: ""
+	}
+
+	BlossomItem: {
+		DisplayName: Blossom Item
+		Tooltip: ""
+	}
+
+	Boquet: {
+		DisplayName: Boquet
+		Tooltip: ""
+	}
+
+	CryovineItem: {
+		DisplayName: Cryovine Item
+		Tooltip: ""
+	}
+
+	DeathCapItem: {
+		DisplayName: Death Cap Item
+		Tooltip: ""
+	}
+
+	GhostReedItem: {
+		DisplayName: Ghost Reed Item
+		Tooltip: ""
+	}
+
+	AlchemicalBrew: {
+		DisplayName: Alchemical Brew
+		Tooltip: ""
+	}
+
+	ApparationBrew: {
+		DisplayName: Apparation Brew
+		Tooltip: ""
+	}
+
+	ColdHeartBrew: {
+		DisplayName: Cold Heart Brew
+		Tooltip: ""
+	}
+
+	CrismiteStaff: {
+		DisplayName: Crismite Staff
+		Tooltip: ""
+	}
+
+	CrystalRefractor: {
+		DisplayName: Crystal Refractor
+		Tooltip: ""
+	}
+
+	IgnomeStaff: {
+		DisplayName: Ignome Staff
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	Blossmoon.DisplayName: Blossmoon
+	Cleft.DisplayName: Cleft
+	CrimsonCluck.DisplayName: Crimson Cluck
+	Crismite.DisplayName: Crismite
+	Bloodlurker.DisplayName: Bloodlurker
+	Watcher.DisplayName: Watcher
+	AtlanticCod.DisplayName: Atlantic Cod
+	Cavefish.DisplayName: Cavefish
+	CrismonTigerfish.DisplayName: Crismon Tigerfish
+	Damselfish.DisplayName: Damselfish
+	Ebonkoi.DisplayName: Ebonkoi
+	FishCrate.DisplayName: Fish Crate
+	FrostMinnow.DisplayName: Frost Minnow
+	GoldenCarp.DisplayName: Golden Carp
+	Lanternfish.DisplayName: Lanternfish
+	Luvdisc.DisplayName: Luvdisc
+	NeonTetra.DisplayName: Neon Tetra
+	Prismite.DisplayName: Prismite
+	RedSnapper.DisplayName: Red Snapper
+	SpecularFish.DisplayName: Specular Fish
+	GoldLumoth.DisplayName: Gold Lumoth
+	Ignome.DisplayName: Ignome
+	GoldScorp.DisplayName: Gold Scorp
+	Lizard.DisplayName: Lizard
+	Lumoth.DisplayName: Lumoth
+	GoldMoth.DisplayName: Gold Moth
+	GreyMoth.DisplayName: Grey Moth
+	JewelMoth.DisplayName: Jewel Moth
+	LunaMoth.DisplayName: Luna Moth
+	Floater.DisplayName: Floater
+	Floater1.DisplayName: Floater1
+	GildJelly.DisplayName: Gild Jelly
+	Glitterfish.DisplayName: Glitterfish
+	Glitterfish1.DisplayName: Glitterfish1
+	Gulper.DisplayName: Gulper
+	Kelpfish.DisplayName: Kelpfish
+	Kelpfish1.DisplayName: Kelpfish1
+	FlareSnake.DisplayName: Flare Snake
+	Gust.DisplayName: Gust
+	SandGust.DisplayName: Sand Gust
+	SnowGust.DisplayName: Snow Gust
+	StormGust.DisplayName: Storm Gust
+	BabySlimeBlue.DisplayName: Baby Slime Blue
+	BabySlimeGreen.DisplayName: Baby Slime Green
+	BabySlimeIce.DisplayName: Baby Slime Ice
+	BabySlimeRainbow.DisplayName: Baby Slime Rainbow
+	BabySlimeSand.DisplayName: Baby Slime Sand
+	UFO.DisplayName: U F O
+}
+
+Projectiles: {
+	FeatherArrow.DisplayName: Feather Arrow
+	CapturePod.DisplayName: Capture Pod
+	Explosion.DisplayName: Explosion
+	KelpHookHead.DisplayName: Kelp Hook Head
+	CrystalProj.DisplayName: Crystal Proj
+	UFOPet.DisplayName: U F O Pet
+	IgnomeSummon.DisplayName: Ignome Summon
+}
+
+WorldGen.PlantsMessage: Adding Even More Plants!

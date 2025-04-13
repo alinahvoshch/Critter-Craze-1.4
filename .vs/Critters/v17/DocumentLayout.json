@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|c:\\users\\user\\documents\\my games\\terraria\\tmodloader\\modsources\\critters\\items\\placeable\\fishcrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|solutionrelative:items\\placeable\\fishcrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|c:\\users\\user\\documents\\my games\\terraria\\tmodloader\\modsources\\critters\\npcs\\fish\\fishcrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|solutionrelative:npcs\\fish\\fishcrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|c:\\users\\user\\documents\\my games\\terraria\\tmodloader\\modsources\\critters\\tiles\\furniture\\fishcrate_tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|solutionrelative:tiles\\furniture\\fishcrate_tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|c:\\users\\user\\documents\\my games\\terraria\\tmodloader\\modsources\\critters\\myplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A477BCCE-314F-40B5-9FA2-FFCDE4EDCD1F}|Critters.csproj|solutionrelative:myplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\MyPlayer.cs",
+              "RelativeDocumentMoniker": "MyPlayer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\MyPlayer.cs",
+              "RelativeToolTip": "MyPlayer.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:52:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FishCrate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\Items\\Placeable\\FishCrate.cs",
+              "RelativeDocumentMoniker": "Items\\Placeable\\FishCrate.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\Items\\Placeable\\FishCrate.cs",
+              "RelativeToolTip": "Items\\Placeable\\FishCrate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:52:55.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FishCrate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\NPCs\\Fish\\FishCrate.cs",
+              "RelativeDocumentMoniker": "NPCs\\Fish\\FishCrate.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\NPCs\\Fish\\FishCrate.cs",
+              "RelativeToolTip": "NPCs\\Fish\\FishCrate.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:52:52.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FishCrate_Tile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\Tiles\\Furniture\\FishCrate_Tile.cs",
+              "RelativeDocumentMoniker": "Tiles\\Furniture\\FishCrate_Tile.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Critters\\Tiles\\Furniture\\FishCrate_Tile.cs",
+              "RelativeToolTip": "Tiles\\Furniture\\FishCrate_Tile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:52:49.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
